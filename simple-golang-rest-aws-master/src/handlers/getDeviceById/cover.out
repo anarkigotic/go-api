@@ -1,0 +1,24 @@
+mode: set
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:33.12,42.16 8 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:47.2,48.30 2 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:42.16,44.6 1 0
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:48.30,51.3 2 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:51.3,53.3 1 0
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:57.85,70.2 3 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:75.99,77.73 1 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:85.2,88.14 2 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:95.2,97.31 3 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:77.73,82.3 1 0
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:88.14,93.3 1 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:101.105,104.16 1 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:112.2,112.27 1 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:120.2,123.3 1 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:104.16,109.3 1 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:112.27,117.3 1 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:127.66,128.42 1 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:128.42,132.3 3 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:132.3,132.57 1 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:132.57,136.3 3 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:136.3,140.3 3 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:144.84,154.2 5 1
+eloy-aws-api-service/src/handlers/getDeviceById/getDeviceById.go:156.12,158.2 1 0
